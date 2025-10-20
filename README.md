@@ -70,7 +70,7 @@
 ## チュートリアルの進め方
 1. `codex` を起動し、セットアップ手順のステップ5に記載したプロンプト  
    ```
-   あなたはplannerです。example.mdを実装したいです。 @third_partys/pec-driven-template/docs/SETUP.mdに従ってセットアップを完了してください。
+   あなたはplannerです。example.mdを実装したいです。 @third_partys/pec-driven-template/docs/SETUP.md に従ってセットアップを完了してください。
    ```
    をそのまま投入して planner ロールを開始します。
 2. planner は `third_party/spec-driven-template/AGENTS.md` と関連ドキュメントを参照しながら `example.md` の要件を整理し、`spec/` や `state/` に必要な初期データを書き込みます。作業ログは `state/trace/`、結果は `state/reports/` に残してください。

@@ -1,0 +1,1 @@
+third_party/spec-driven-template/AGENTS.mdを参照して下さい。
